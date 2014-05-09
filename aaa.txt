@@ -1,2 +1,7 @@
 aaaaa
+<<<<<<< HEAD
 1234
+=======
+ttt
+bbbbb
+>>>>>>> origin/tt
